@@ -8,12 +8,12 @@
 
 #### 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
 <div style="display: inline_block">
-<img aLign="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img aLign="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img aLign="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img aLign="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img aLign="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img aLign="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img aLign="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img aLign="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img aLign="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img aLign="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img aLign="center" alt="​SQL SERVER" src="https://img.shields.io/static/v1?label=%E2%80%8B&message=SQL+SERVER&color=CC2927&style=for-the-badge&logo=microsoftsqlserver">
 <div style="display: inline_block"><br/>
 
@@ -25,9 +25,9 @@
 ![redis](https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis)
 ![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 ![Delphi](https://img.shields.io/badge/delphi-000?style=for-the-badge&logo=delphi)
-
-
 </div>
+
+<!--
 
 ## Git Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arcnrick&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -35,7 +35,6 @@
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arcnrick&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arcnrick/dio-lab-open-source)
 
-<!--
 **arcnrick/arcnrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
